@@ -1,0 +1,26 @@
+{
+  "success": false,
+  "sdk": {
+    "version": "0.184.2"
+  },
+  "wunderctl": {
+    "version": "unknown"
+  },
+  "node": {
+    "version": "v23.1.0"
+  },
+  "os": {
+    "type": "Windows_NT",
+    "platform": "win32",
+    "arch": "x64",
+    "version": "Windows 11 Home Single Language",
+    "release": "10.0.26100"
+  },
+  "stats": {
+    "totalApis": 3,
+    "hasUploadProvider": false,
+    "totalOperations": 0,
+    "totalWebhooks": 0,
+    "hasAuthenticationProvider": false
+  }
+}
