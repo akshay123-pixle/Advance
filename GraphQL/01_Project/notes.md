@@ -166,7 +166,6 @@ To summarize, here's how these concepts fit together in a real-world scenario:
 
 ---
 
-Does this make sense so far? Feel free to ask questions on any of the concepts or how to implement them!
 
 ---
 
@@ -410,4 +409,3 @@ This query fetches data from both the **Users API** and the **Products API** in 
 
 ---
 
-I hope this clears things up! Let me know if you have more questions or need further clarification on any part.
