@@ -1,4 +1,4 @@
-const DEEPSEEK_API_KEY = "sk-401fbd42cf00493b8c28db07f3027460";
+// const DEEPSEEK_API_KEY  please add it 
 import OpenAI from "openai";
 
 const client = new OpenAI({
